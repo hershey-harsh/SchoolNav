@@ -39,7 +39,7 @@ def calculate_required_final_grade(data):
     midterm_exam = float(data['midterm_exam'])
     target_grade = float(data['target_grade'])
     
-    term_weight = 0.3
+    term_weight = 0.2
     midterm_weight = 0.1
     final_weight = 0.1
 
